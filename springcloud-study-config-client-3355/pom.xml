@@ -15,7 +15,7 @@
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config</artifactId>
+            <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
 
         <!--zuul依赖-->
